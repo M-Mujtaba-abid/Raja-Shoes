@@ -1,0 +1,10 @@
+{
+  "/api/expenses/route": "app/api/expenses/route.js",
+  "/api/dashboard/route": "app/api/dashboard/route.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/inventory/page": "app/inventory/page.js",
+  "/profit/page": "app/profit/page.js",
+  "/khata/page": "app/khata/page.js",
+  "/pos/page": "app/pos/page.js",
+  "/expenses/page": "app/expenses/page.js"
+}
